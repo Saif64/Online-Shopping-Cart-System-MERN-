@@ -5,7 +5,8 @@
   "main": "./controller/server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "test": "jest"
+    "test": "jest",
+    "node" : " node controller/server.js"
   },
   "keywords": [],
   "author": "",
